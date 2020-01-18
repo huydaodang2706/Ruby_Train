@@ -4,7 +4,7 @@ class TaskController < ApplicationController
   end
   def infra
   end
-  def intro
+  def demogit
 
   end
 end
