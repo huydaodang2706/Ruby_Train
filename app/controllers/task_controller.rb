@@ -2,6 +2,7 @@ class TaskController < ApplicationController
   def function
 
   end
-  def infra 
+  def infra
   end
+  
 end
