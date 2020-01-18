@@ -4,7 +4,7 @@ class TaskController < ApplicationController
   end
   def infra
   end
-  def nana
+  def intro
 
   end
 end
